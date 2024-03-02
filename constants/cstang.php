@@ -1,0 +1,47 @@
+<?php
+define('titre', 'stock management');
+define('stitre', 'Add, delete, search your products here');
+define('ajout', 'add a product');
+define('codeprod', 'product code');
+define('des', 'designation');
+define('prix', 'price');
+define('mar', 'margin');
+define('qua', 'quantity');
+define('seu', 'threshold');
+define('fou', 'supplier');
+define('img', 'picture');
+define('val', 'submit');
+define('ini', 'reset');
+define('RECHERCHE_TITRE', 'Search by any information');
+define('LABEL_CODE_PROD', 'Enter product code:');
+define('BTN_SUBMIT', 'Submit');
+define('TABLE_ID', 'ID');
+define('TABLE_CODE_PROD', 'Product Code');
+define('TABLE_DESIGNATION', 'Designation');
+define('TABLE_PRIX_A', 'Price A');
+define('TABLE_MARGE', 'Margin');
+define('TABLE_QUANTITE_STOCK', 'Stock Quantity');
+define('TABLE_SEUIL', 'Threshold');
+define('TABLE_ID_FOURNISSEUR', 'Supplier');
+define('TABLE_TITLE', 'Product Table');
+define('ID', 'ID');
+define('ACTION', 'actions');
+define('CODE_PROD', 'Product Code');
+define('DESIGNATION', 'Designation');
+    define('PRIX_A', 'Price A');
+    define('MARGE', 'Margin');
+    define('QUANTITE_STOCK', 'Stock Quantity');
+    define('SEUIL', 'Threshold');
+    define('ID_FOURNISSEUR', 'Supplier');
+    define('IMAGE', 'Image');
+    define('NO_RESULT', "No result found for product code.");
+    define('MODIFIER_DONNEES', 'Modify Product Data');
+define('NOUVELLE_DESIGNATION', 'New Designation');
+define('NOUVEAU_PRIX', 'New Price');
+define('NOUVELLE_MARGE', 'New Margin');
+define('NOUVELLE_QUANTITE', 'New Quantity');
+define('NOUVEAU_SEUIL', 'New Threshold');
+define('NOUVEAU_FOURNISSEUR', 'New Supplier');
+define('MODIFIER', 'Modify');
+
+?>

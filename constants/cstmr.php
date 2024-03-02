@@ -1,0 +1,47 @@
+<?php
+define('titre', 'إدارة المخزون');
+define('stitre', 'أضف، احذف، ابحث عن منتجاتك هنا');
+define('ajout', 'إضافة منتج');
+define('codeprod', 'رمز المنتج');
+define('des', 'التصميم');
+define('prix', 'سعر الشراء');
+define('mar', 'هامش');
+define('qua', 'الكمية');
+define('seu', 'الحد الأدنى');
+define('fou', 'المورد');
+define('img', 'صورة');
+define('val', 'تأكيد');
+define('ini', 'إعادة تعيين');
+define('RECHERCHE_TITRE', 'البحث بواسطة أي معلومة');
+    define('LABEL_CODE_PROD', 'أدخل رمز المنتج:');
+    define('BTN_SUBMIT', 'تأكيد');
+    define('TABLE_ID', 'المعرف');
+    define('TABLE_CODE_PROD', 'رمز المنتج');
+    define('TABLE_DESIGNATION', 'التسمية');
+    define('TABLE_PRIX_A', 'السعر A');
+    define('TABLE_MARGE', 'الهامش');
+    define('TABLE_QUANTITE_STOCK', 'كمية المخزون');
+    define('TABLE_SEUIL', 'الحد الأدنى');
+    define('TABLE_ID_FOURNISSEUR', ' المورد');
+    define('TABLE_TITLE', 'جدول المنتجات');
+    define('ID', 'المعرّف');
+    define('CODE_PROD', 'كود المنتج');
+    define('DESIGNATION', 'التصنيف');
+    define('PRIX_A', 'سعر الشراء');
+    define('MARGE', 'الهامش');
+    define('QUANTITE_STOCK', 'الكمية في المخزون');
+    define('SEUIL', 'حد المنتج');
+    define('ID_FOURNISSEUR', 'المورد');
+    define('IMAGE', 'الصورة');
+    define('NO_RESULT', "لم يتم العثور على نتائج لكود المنتج .");
+    define('MODIFIER_DONNEES', 'تعديل بيانات المنتج');
+define('NOUVELLE_DESIGNATION', 'التسمية الجديدة');
+define('NOUVEAU_PRIX', 'السعر الجديد');
+define('NOUVELLE_MARGE', 'الهامش الجديد');
+define('NOUVELLE_QUANTITE', 'الكمية الجديدة');
+define('NOUVEAU_SEUIL', 'الحد الجديد');
+define('NOUVEAU_FOURNISSEUR', 'المورد الجديد');
+define('MODIFIER', 'تعديل');
+define('ACTION', 'العمليات');
+
+?>
